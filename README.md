@@ -1,1 +1,2 @@
-# 601_pip
+## Proxyありインストール
+$ pip install pandas --proxy http://<IPアドレス>
